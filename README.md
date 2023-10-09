@@ -1,2 +1,3 @@
 Author Name:Gabriela Benavides
-Purpose:FINAL-PROJECT1
+Purpose: Travling the Worlds
+External Sources: Goolge Images
